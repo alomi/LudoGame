@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <!--### The player who is going to start after save ###-->
+  <playerturn>1</playerturn>
+  <!--### List of piecepositions on the board for each Player ###-->
+  <players>
+    <player key="1">
+      <piece name="1">-1</piece>
+      <piece name="2">-1</piece>
+      <piece name="3">-1</piece>
+      <piece name="4">-1</piece>
+    </player>
+  </players>
+</Root>
